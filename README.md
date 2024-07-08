@@ -1,5 +1,8 @@
 # cody.mp3 🎧🎵
-Here's the project I did my first semester in [Berkeley Codeology](https://codeology.club/#/). I filled out this notebook, performing data preprocessing, EDA, and song-genre classification with different types of models.
+Here's the project I did my first semester in [Berkeley Codeology](https://codeology.club/#/). I filled out this notebook, performing data preprocessing, EDA, and song-genre classification with different types of models.\
+\
+Project Leaders: Michael Zhang, Mizuho Li\
+Project Developers: Alena Chao, Allan Chen, Andrew Zhang, John Glen Siy, Raghav Punnam
 
 ## Data Preprocessing
 Learned how to manipulate and query Pandas dataframes as well as utilize various NumPy operations.
